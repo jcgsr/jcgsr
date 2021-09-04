@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jcgsr
-- 👀 I’m interested in JavaScript, React and Vue.
-- 🌱 I’m currently learning JavaScript, React, Gatsby and Vue.
+- 👋 Hi, I’m Jovane
+- 👀 I’m interested in JavaScript, React and Gatsby.
+- 🌱 I’m currently learning JavaScript, React and Gatsby.
 - 💞️ I’m looking to collaborate on any beginner project so that I can both help and learn.
 - 📫 How to reach me: Twitter: @teufel8
 
